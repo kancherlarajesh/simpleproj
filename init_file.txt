@@ -1,3 +1,4 @@
 init file
 after merge from feature1
 new commit after merge
+new commit in hotfix
